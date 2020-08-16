@@ -5,5 +5,6 @@ Scripts desenvolvidos durante aprendizado na ferramenta na Udemy
   <li>Teste demonstração do funcionamento da ordem dos elementos</li>
 </ul>
 
-![Fluxo de execucao do Jmeter](https://user-images.githubusercontent.com/2924174/90343936-8d59c280-dfeb-11ea-8aa8-14ea984f7d73.png)
+![Fluxo de execucao do Jmeter](https://user-images.githubusercontent.com/2924174/90344218-f2aeb300-dfed-11ea-8224-400514dca5b1.png)
+
 
