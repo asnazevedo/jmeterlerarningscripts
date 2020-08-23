@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><ns1:execXMLResponse xmlns:ns1="urn:fidelize"><return xsi:type="xsd:string">&lt;?xml version=&quot;1.0&quot; encoding=&quot;ISO-8859-1&quot;?&gt;
+&lt;resp_confirma_venda&gt;
+   &lt;status&gt;1&lt;/status&gt;
+   &lt;msg&gt;VENDA CONFIRMADA&lt;/msg&gt;
+   &lt;cupom&gt;
+     &lt;linha_cupom id=&quot;0&quot;&gt;&lt;/linha_cupom&gt;
+   &lt;/cupom&gt;
+&lt;/resp_confirma_venda&gt;
+</return></ns1:execXMLResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>

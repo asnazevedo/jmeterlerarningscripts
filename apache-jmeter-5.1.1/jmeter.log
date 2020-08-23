@@ -1,0 +1,17 @@
+2019/06/26 12:15:40 INFO  - jmeter.util.JMeterUtils: Setting Locale to pt_BR 
+2019/06/26 12:15:40 INFO  - jmeter.JMeter: Loading user properties from: /usr/share/jmeter/bin/user.properties 
+2019/06/26 12:15:40 INFO  - jmeter.JMeter: Loading system properties from: /usr/share/jmeter/bin/system.properties 
+2019/06/26 12:15:40 INFO  - jmeter.JMeter: Copyright (c) 1998-2015 The Apache Software Foundation 
+2019/06/26 12:15:40 INFO  - jmeter.JMeter: Version 2.13.20170723 
+2019/06/26 12:15:40 INFO  - jmeter.JMeter: java.version=1.8.0_201 
+2019/06/26 12:15:40 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2019/06/26 12:15:40 INFO  - jmeter.JMeter: os.name=Linux 
+2019/06/26 12:15:40 INFO  - jmeter.JMeter: os.arch=amd64 
+2019/06/26 12:15:40 INFO  - jmeter.JMeter: os.version=4.15.0-52-generic 
+2019/06/26 12:15:40 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2019/06/26 12:15:41 INFO  - jmeter.JMeter: Default Locale=português (Brasil) 
+2019/06/26 12:15:41 INFO  - jmeter.JMeter: JMeter  Locale=português (Brasil) 
+2019/06/26 12:15:41 INFO  - jmeter.JMeter: JMeterHome=/usr/share/jmeter 
+2019/06/26 12:15:41 INFO  - jmeter.JMeter: user.dir  =/home/bruno-araujo/apache-jmeter-5.1.1 
+2019/06/26 12:15:41 INFO  - jmeter.JMeter: PWD       =/home/bruno-araujo/apache-jmeter-5.1.1 
+2019/06/26 12:15:41 INFO  - jmeter.JMeter: IP: 10.0.6.17 Name: julio-paiva FullName: julio-paiva 
